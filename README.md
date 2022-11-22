@@ -25,7 +25,7 @@ images/Screenshot-QR-code-component.png
 ### Links
 
 - Solution URL: [https://codepen.io/Jaytech1580/pen/MWXQdLK]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://github.com/Jaytech1580/QR-CODE]
 
 ## My process
 
