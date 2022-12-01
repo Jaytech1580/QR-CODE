@@ -54,5 +54,6 @@ Like I said earlier i will practice more on flexbox to increase my css skills.
 - Website - [EKEOBONG](No personal website yet still working on that.)
 - Frontend Mentor - [@Jaytech1580](https://www.frontendmentor.io/profile/Jaytech1580)
 - Twitter - [@JayTech1580](https://www.twitter.com/jaytech1580)
+- CodePen - [@JayTech1580](https://codepen.io/your-work/)
 
 
